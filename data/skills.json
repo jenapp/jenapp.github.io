@@ -1,32 +1,18 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
-  },
-  {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
-  },
-  {
-      "grouping":"Data Management",
-      "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
-      ]
-  },
-  {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
-      ]
-  }
+    "grouping":"Core skills",
+    "skills":[ "Technical communication", "Content strategy", "Knowledge management", "Product documentation", "UX Writing", "Structured authoring", "Single sourcing", "Agile & waterfall methodologies", "Research"]
+},
+{
+    "grouping":"Content",
+    "skills":[ "Online help", "Context-sensitive help", "User guides","Release notes", "Quick reference guides", "Style guides", "Error messages", "Microcopy", "Developer docs", "API documentation"]
+},
+{
+    "grouping":"Tools",
+    "skills":[ "Madcap Flare", "oXygen XML Author", "Atlassian Confluence", "Atlassian JIRA", "Git", "Microsoft Visual Studio Code", "Slack", "Google Workspace", "Microsoft Office", "Greenshot", "Miro"]
+},
+{
+    "grouping":"Languages & standards",
+    "skills":[ "HTML", "CSS", "Darwin Information Typing Architecture (DITA)"]
+}
 ]

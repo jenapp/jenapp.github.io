@@ -1,4 +1,4 @@
-title = "Eddie Webb"
+title = "Jennifer Appleby | Portfolio"
 baseURL = "https://jenapp.github.io/"
 theme = "hugo-resume"
 languageCode = "en-us"
@@ -8,14 +8,14 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Rollinsford, NH"
-email = "email@domain.com"
-favicon = "/favicon.ico"
-firstName = "Eddie"
-lastName = "Webb"
-phone = "1-555-555-1234"
-profileImage = "img/TechChat.png"
-showQr = true
+address = "Melbourne, Australia"
+email = "jennifer.appleby@gmail.com"
+favicon = "img/favicon.ico"
+firstName = "Jennifer"
+lastName = "Appleby"
+phone = "(+61) 0413 693 429"
+profileImage = "img/J.jpg"
+showQr = false
 showContact = true
 sections = ["skills","publications","creations","contributions","experience","education","blog"]
 
@@ -33,24 +33,12 @@ sections = ["skills","publications","creations","contributions","experience","ed
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/edwardwebb/"
+link = "www.linkedin.com/in/jennifer-appleby"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/eddiewebb/"
+link = "https://github.com/jenapp"
 name = "GitHub"
-
-[[params.handles]]
-link = "https://bitbucket.org/eddiewebb/"
-name = "Bitbucket"
-
-[[params.handles]]
-link = "https://stackoverflow.com/users/story/82880"
-name = "Stack Overflow"
-
-[[params.handles]]
-link = "https://keybase.io/edwardawebb"
-name = "Keybase"
 
 [outputs]
 home = ["HTML", "JSON"]

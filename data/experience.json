@@ -1,20 +1,44 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role":"Senior Technical Content Designer",
+        "company":"Iress",
+        "summary":"",
+        "range":"Dec 2022 - Jul 2024"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Technical Writer",
+        "company":"Iress",
+        "summary":"",
+        "range":"Jan 2022 - Dec 2022"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Senior Technical Writer",
+        "company":"Zendesk",
+        "summary":"",
+        "range":"May 2021 - Oct 2021"
+    },
+    {
+        "role":"Technical Documentation Writer",
+        "company":"WingArc Australia",
+        "summary":"",
+        "range":"Sep 2018 - May 2021"
+    },
+    {
+        "role":"Technical Writer",
+        "company":"Inomial Pty Ltd / DGIT Systems",
+        "summary":"",
+        "range":"Nov 2013 - Sep 2018"
+    },
+    {
+        "role":"E-commerce and social media development",
+        "company":"Habadash",
+        "summary":"",
+        "range":"2009 - 2013"
+    },
+    {
+        "role":"IT Operations Manager",
+        "company":"The Salvation Army - Australia Southern Territory",
+        "summary":"",
+        "range":"May 2003 - Feb 2009"
     }
 ]

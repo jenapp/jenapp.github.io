@@ -118,6 +118,8 @@
     <loc>https://jenapp.github.io/tags/web-development/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url><url>
+    <loc>https://jenapp.github.io/tags/api/</loc>
+  </url><url>
     <loc>https://jenapp.github.io/tags/atlassian-developer-ecosystem/</loc>
   </url><url>
     <loc>https://jenapp.github.io/projects/creations/marketplace/</loc>
@@ -128,7 +130,15 @@
   </url><url>
     <loc>https://jenapp.github.io/tags/confluence/</loc>
   </url><url>
+    <loc>https://jenapp.github.io/tags/css/</loc>
+  </url><url>
     <loc>https://jenapp.github.io/projects/creations/docker-marketplace/</loc>
+  </url><url>
+    <loc>https://jenapp.github.io/projects/creations/inomial-docs/</loc>
+  </url><url>
+    <loc>https://jenapp.github.io/projects/creations/inomial-readthedocs/</loc>
+  </url><url>
+    <loc>https://jenapp.github.io/tags/html/</loc>
   </url><url>
     <loc>https://jenapp.github.io/tags/jira/</loc>
   </url><url>
@@ -136,8 +146,16 @@
   </url><url>
     <loc>https://jenapp.github.io/tags/maven/</loc>
   </url><url>
+    <loc>https://jenapp.github.io/tags/netlify/</loc>
+  </url><url>
+    <loc>https://jenapp.github.io/tags/read-the-docs/</loc>
+  </url><url>
+    <loc>https://jenapp.github.io/tags/restructuredtext/</loc>
+  </url><url>
     <loc>https://jenapp.github.io/search/</loc>
     <priority>0.1</priority>
+  </url><url>
+    <loc>https://jenapp.github.io/tags/sphinx/</loc>
   </url><url>
     <loc>https://jenapp.github.io/tags/spring/</loc>
   </url>

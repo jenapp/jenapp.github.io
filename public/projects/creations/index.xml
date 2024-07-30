@@ -29,5 +29,19 @@
       <guid>https://jenapp.github.io/projects/creations/docker-marketplace/</guid>
       <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace. Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
     </item>
+    <item>
+      <title>Docs portal</title>
+      <link>https://jenapp.github.io/projects/creations/inomial-docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jenapp.github.io/projects/creations/inomial-docs/</guid>
+      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace. Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
+    </item>
+    <item>
+      <title>GraphQL API docs</title>
+      <link>https://jenapp.github.io/projects/creations/inomial-readthedocs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jenapp.github.io/projects/creations/inomial-readthedocs/</guid>
+      <description>Context As Inomial was developing their GraphQL API library, this project was a proof of concept for how we could document and present the API documentation.</description>
+    </item>
   </channel>
 </rss>

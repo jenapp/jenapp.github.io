@@ -8,11 +8,11 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Melbourne, Australia"
-email = "jennifer.appleby@gmail.com"
-favicon = "img/favicon.ico"
+favicon = "/favicon.ico"
 firstName = "Jennifer"
 lastName = "Appleby"
+address = "Melbourne, Australia"
+email = "jennifer.appleby@gmail.com"
 phone = "(+61) 0413 693 429"
 profileImage = "img/J.jpg"
 showQr = false
@@ -21,19 +21,14 @@ sections = ["skills","publications","creations","contributions","experience","ed
 
     # what sections to display.  Setting to false disables navigation and section.
     showSkills = true
-    showProjects = true
+    showProjects = false
     showOpenSource = false
     showPublications = false
     showExperience = true
     showEducation = true
 
-[params.google]
-
-[params.google.analytics]
-trackerID = "XX-123446-01"
-
 [[params.handles]]
-link = "www.linkedin.com/in/jennifer-appleby"
+link = "https://www.linkedin.com/in/jennifer-appleby"
 name = "LinkedIn"
 
 [[params.handles]]

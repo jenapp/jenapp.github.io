@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scroll Viewport on Jennifer Appleby | Portfolio</title>
+    <link>https://jenapp.github.io/tags/scroll-viewport/</link>
+    <description>Recent content in Scroll Viewport on Jennifer Appleby | Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Aug 2024 14:09:03 +1000</lastBuildDate>
+    <atom:link href="https://jenapp.github.io/tags/scroll-viewport/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Online Help (WingArc)</title>
+      <link>https://jenapp.github.io/projects/creations/wingarc-mb/</link>
+      <pubDate>Tue, 13 Aug 2024 14:09:03 +1000</pubDate>
+      <guid>https://jenapp.github.io/projects/creations/wingarc-mb/</guid>
+      <description>Context My first project for WingArc Australia was to create an English language user guide of a business intelligence dashboard platform. This product was developed by the parent company, WingArc 1st, located in Japan.&#xA;The existing Japanese machine-translated documentation was not of an acceptable quality to provide to local Australian users.&#xA;Action Authored over 2000 pages in Atlassian Confluence and published using Scroll Viewport to apply custom CSS and manage versioning.</description>
+    </item>
+  </channel>
+</rss>

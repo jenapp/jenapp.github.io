@@ -1,20 +1,32 @@
-{
-    "title":"GraphQL API docs",
-    "link":"https://inomial.readthedocs.io/en/latest/index.html",
-    "image":"/img/proj-graphql-api.png",
-    "description":"Proof of concept project created using Read the Docs and Sphinx.",
-    "tags":[
+---
+   title: "GraphQL API docs"
+
+   featured: true
+   description: "Proof of concept project created using Read the Docs and Sphinx."
+   tags: [
           "Read the Docs",
           "Sphinx",
           "API",
-          "REST APIs",
-          "reStructuredText"
-        ],
-    "fact":"."
-}
+          "REST",
+          "RST",
+          "Inomial"
+        ]
+   image: "/img/proj-graphql-api-account.png"
+   link: "https://inomial.readthedocs.io"
+   fact: "."
+   weight: 400
+   sitemap:
+   priority : 0.8
+---
 
 ### Context
 
-As Inomial was developing their GraphQL API library, this project was a proof of concept for how we could document and present the API documentation. 
+As Inomial was developing their GraphQL API library, I created this project as a proof of concept for how we could document and present the API documentation.
+
+### Action
+
+Using **Read the Docs** as the hosting platform, content was written in **reStructuredText** and generated with **Sphinx**. 
 
 ![Graph API docs](/img/proj-graphql-api-account.png)
+
+### Links

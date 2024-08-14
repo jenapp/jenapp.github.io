@@ -21,8 +21,8 @@ sections = ["skills","publications","creations","contributions","experience","ed
 
     # what sections to display.  Setting to false disables navigation and section.
     showSkills = true
-    showProjects = false
-    showOpenSource = false
+    showProjects = true
+    showOpenSource = true
     showPublications = false
     showExperience = true
     showEducation = true

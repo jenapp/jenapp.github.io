@@ -2,171 +2,171 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jennifer Appleby | Portfolio</title>
-    <link>https://jenapp.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Jennifer Appleby | Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Aug 2024 00:04:04 +1000</lastBuildDate>
-    <atom:link href="https://jenapp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analytics</title>
-      <link>https://jenapp.github.io/tags/analytics/</link>
+      <link>http://localhost:1313/tags/analytics/</link>
       <pubDate>Wed, 14 Aug 2024 00:04:04 +1000</pubDate>
-      <guid>https://jenapp.github.io/tags/analytics/</guid>
+      <guid>http://localhost:1313/tags/analytics/</guid>
       <description></description>
     </item>
     <item>
       <title>Flare</title>
-      <link>https://jenapp.github.io/tags/flare/</link>
+      <link>http://localhost:1313/tags/flare/</link>
       <pubDate>Wed, 14 Aug 2024 00:04:04 +1000</pubDate>
-      <guid>https://jenapp.github.io/tags/flare/</guid>
+      <guid>http://localhost:1313/tags/flare/</guid>
       <description></description>
     </item>
     <item>
       <title>Help</title>
-      <link>https://jenapp.github.io/tags/help/</link>
+      <link>http://localhost:1313/tags/help/</link>
       <pubDate>Wed, 14 Aug 2024 00:04:04 +1000</pubDate>
-      <guid>https://jenapp.github.io/tags/help/</guid>
+      <guid>http://localhost:1313/tags/help/</guid>
       <description></description>
     </item>
     <item>
       <title>Iress</title>
-      <link>https://jenapp.github.io/tags/iress/</link>
+      <link>http://localhost:1313/tags/iress/</link>
       <pubDate>Wed, 14 Aug 2024 00:04:04 +1000</pubDate>
-      <guid>https://jenapp.github.io/tags/iress/</guid>
+      <guid>http://localhost:1313/tags/iress/</guid>
       <description></description>
     </item>
     <item>
       <title>Oxygen Author</title>
-      <link>https://jenapp.github.io/tags/oxygen-author/</link>
+      <link>http://localhost:1313/tags/oxygen-author/</link>
       <pubDate>Tue, 13 Aug 2024 16:50:29 +1000</pubDate>
-      <guid>https://jenapp.github.io/tags/oxygen-author/</guid>
+      <guid>http://localhost:1313/tags/oxygen-author/</guid>
       <description></description>
     </item>
     <item>
       <title>Zendesk</title>
-      <link>https://jenapp.github.io/tags/zendesk/</link>
+      <link>http://localhost:1313/tags/zendesk/</link>
       <pubDate>Tue, 13 Aug 2024 16:50:29 +1000</pubDate>
-      <guid>https://jenapp.github.io/tags/zendesk/</guid>
+      <guid>http://localhost:1313/tags/zendesk/</guid>
       <description></description>
     </item>
     <item>
       <title>Confluence</title>
-      <link>https://jenapp.github.io/tags/confluence/</link>
+      <link>http://localhost:1313/tags/confluence/</link>
       <pubDate>Tue, 13 Aug 2024 14:09:03 +1000</pubDate>
-      <guid>https://jenapp.github.io/tags/confluence/</guid>
+      <guid>http://localhost:1313/tags/confluence/</guid>
       <description></description>
     </item>
     <item>
       <title>Scroll Viewport</title>
-      <link>https://jenapp.github.io/tags/scroll-viewport/</link>
+      <link>http://localhost:1313/tags/scroll-viewport/</link>
       <pubDate>Tue, 13 Aug 2024 14:09:03 +1000</pubDate>
-      <guid>https://jenapp.github.io/tags/scroll-viewport/</guid>
+      <guid>http://localhost:1313/tags/scroll-viewport/</guid>
       <description></description>
     </item>
     <item>
       <title>WingArc</title>
-      <link>https://jenapp.github.io/tags/wingarc/</link>
+      <link>http://localhost:1313/tags/wingarc/</link>
       <pubDate>Tue, 13 Aug 2024 14:09:03 +1000</pubDate>
-      <guid>https://jenapp.github.io/tags/wingarc/</guid>
+      <guid>http://localhost:1313/tags/wingarc/</guid>
       <description></description>
     </item>
     <item>
       <title>Community</title>
-      <link>https://jenapp.github.io/tags/community/</link>
+      <link>http://localhost:1313/tags/community/</link>
       <pubDate>Tue, 13 Aug 2024 13:08:05 +1000</pubDate>
-      <guid>https://jenapp.github.io/tags/community/</guid>
+      <guid>http://localhost:1313/tags/community/</guid>
       <description></description>
     </item>
     <item>
       <title>Conference</title>
-      <link>https://jenapp.github.io/tags/conference/</link>
+      <link>http://localhost:1313/tags/conference/</link>
       <pubDate>Tue, 13 Aug 2024 13:08:05 +1000</pubDate>
-      <guid>https://jenapp.github.io/tags/conference/</guid>
+      <guid>http://localhost:1313/tags/conference/</guid>
       <description></description>
     </item>
     <item>
       <title>Volunteer</title>
-      <link>https://jenapp.github.io/tags/volunteer/</link>
+      <link>http://localhost:1313/tags/volunteer/</link>
       <pubDate>Tue, 13 Aug 2024 13:08:05 +1000</pubDate>
-      <guid>https://jenapp.github.io/tags/volunteer/</guid>
+      <guid>http://localhost:1313/tags/volunteer/</guid>
       <description></description>
     </item>
     <item>
       <title>Write the Docs</title>
-      <link>https://jenapp.github.io/tags/write-the-docs/</link>
+      <link>http://localhost:1313/tags/write-the-docs/</link>
       <pubDate>Tue, 13 Aug 2024 13:08:05 +1000</pubDate>
-      <guid>https://jenapp.github.io/tags/write-the-docs/</guid>
+      <guid>http://localhost:1313/tags/write-the-docs/</guid>
       <description></description>
     </item>
     <item>
       <title>API</title>
-      <link>https://jenapp.github.io/tags/api/</link>
+      <link>http://localhost:1313/tags/api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jenapp.github.io/tags/api/</guid>
+      <guid>http://localhost:1313/tags/api/</guid>
       <description></description>
     </item>
     <item>
       <title>CSS</title>
-      <link>https://jenapp.github.io/tags/css/</link>
+      <link>http://localhost:1313/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jenapp.github.io/tags/css/</guid>
+      <guid>http://localhost:1313/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>DITA</title>
-      <link>https://jenapp.github.io/tags/dita/</link>
+      <link>http://localhost:1313/tags/dita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jenapp.github.io/tags/dita/</guid>
+      <guid>http://localhost:1313/tags/dita/</guid>
       <description></description>
     </item>
     <item>
       <title>HTML</title>
-      <link>https://jenapp.github.io/tags/html/</link>
+      <link>http://localhost:1313/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jenapp.github.io/tags/html/</guid>
+      <guid>http://localhost:1313/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Inomial</title>
-      <link>https://jenapp.github.io/tags/inomial/</link>
+      <link>http://localhost:1313/tags/inomial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jenapp.github.io/tags/inomial/</guid>
+      <guid>http://localhost:1313/tags/inomial/</guid>
       <description></description>
     </item>
     <item>
       <title>Netlify</title>
-      <link>https://jenapp.github.io/tags/netlify/</link>
+      <link>http://localhost:1313/tags/netlify/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jenapp.github.io/tags/netlify/</guid>
+      <guid>http://localhost:1313/tags/netlify/</guid>
       <description></description>
     </item>
     <item>
       <title>Read the Docs</title>
-      <link>https://jenapp.github.io/tags/read-the-docs/</link>
+      <link>http://localhost:1313/tags/read-the-docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jenapp.github.io/tags/read-the-docs/</guid>
+      <guid>http://localhost:1313/tags/read-the-docs/</guid>
       <description></description>
     </item>
     <item>
       <title>REST</title>
-      <link>https://jenapp.github.io/tags/rest/</link>
+      <link>http://localhost:1313/tags/rest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jenapp.github.io/tags/rest/</guid>
+      <guid>http://localhost:1313/tags/rest/</guid>
       <description></description>
     </item>
     <item>
       <title>RST</title>
-      <link>https://jenapp.github.io/tags/rst/</link>
+      <link>http://localhost:1313/tags/rst/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jenapp.github.io/tags/rst/</guid>
+      <guid>http://localhost:1313/tags/rst/</guid>
       <description></description>
     </item>
     <item>
       <title>Sphinx</title>
-      <link>https://jenapp.github.io/tags/sphinx/</link>
+      <link>http://localhost:1313/tags/sphinx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jenapp.github.io/tags/sphinx/</guid>
+      <guid>http://localhost:1313/tags/sphinx/</guid>
       <description></description>
     </item>
   </channel>

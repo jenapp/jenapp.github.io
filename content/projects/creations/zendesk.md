@@ -6,7 +6,7 @@ description: "A selection of user management topics and Zendesk integrations con
 tags: [
   "help",
   "Oxygen Author",
-  "zendesk"
+  "Zendesk"
   ]
 image: "/img/proj-zendesk-managingorgs.png"
 link: ""

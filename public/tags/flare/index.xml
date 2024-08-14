@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flare on Jennifer Appleby | Portfolio</title>
-    <link>https://jenapp.github.io/tags/flare/</link>
+    <link>http://localhost:1313/tags/flare/</link>
     <description>Recent content in Flare on Jennifer Appleby | Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Aug 2024 00:04:04 +1000</lastBuildDate>
-    <atom:link href="https://jenapp.github.io/tags/flare/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/flare/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>In-product Help (Iress)</title>
-      <link>https://jenapp.github.io/projects/creations/iress-commpay/</link>
+      <link>http://localhost:1313/projects/creations/iress-commpay/</link>
       <pubDate>Wed, 14 Aug 2024 00:04:04 +1000</pubDate>
-      <guid>https://jenapp.github.io/projects/creations/iress-commpay/</guid>
+      <guid>http://localhost:1313/projects/creations/iress-commpay/</guid>
       <description>Context I maintained multiple help systems during my time at Iress. On of these was in-product help for their CommPay product, an application for automating financial revenue management.&#xA;Action In addition to ongoing help updates for feature additions or other product changes, I used analytics (Google Analytics and Heap) to understand how help topics were being accessed and identify where content itself or structure could be improved.&#xA;Topics related to the Suspense function were identified as some of the most commonly accessed content.</description>
     </item>
   </channel>

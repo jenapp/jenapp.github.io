@@ -2,7 +2,7 @@
 title: "Online Help (WingArc)"
 date: 2024-08-13T14:09:03+10:00
 featured: true
-description: "Created an English language user guide of the parent company’s Japanese dashboard platform (over 2000 pages)"
+description: "Created an English language user guide of the parent company’s Japanese dashboard platform (over 2000 pages)."
 tags: [
   "Confluence",
   "Scroll Viewport",

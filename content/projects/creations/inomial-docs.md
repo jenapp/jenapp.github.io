@@ -2,7 +2,7 @@
    title: "Documentation portal & user docs"
 
    featured: true
-   description: "Created a documentation portal hosting all user docs for the Inomial Smile product"
+   description: "Created a documentation portal hosting all user docs for the Inomial Smile product."
    tags: [
           "Oxygen Author",
           "DITA",

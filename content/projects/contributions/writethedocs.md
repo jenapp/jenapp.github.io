@@ -2,7 +2,7 @@
 title: "Write the Docs Australia"
 date: 2024-08-13T13:08:05+10:00
 featured: true
-description: "I'm a member of the planning committee for the Write the Docs Australia annual 2 day conference."
+description: "I'm a member of the planning team for the Write the Docs Australia annual 2 day conference."
 tags: [
   "Write the Docs",
   "community",

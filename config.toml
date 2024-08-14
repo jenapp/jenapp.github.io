@@ -1,6 +1,7 @@
 title = "Jennifer Appleby | Portfolio"
 baseURL = "https://jenapp.github.io/"
 theme = "hugo-resume"
+customCSS = ["custom.css"]
 languageCode = "en-us"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true

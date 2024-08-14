@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zendesk on Jennifer Appleby | Portfolio</title>
-    <link>http://localhost:1313/tags/zendesk/</link>
+    <link>https://jenapp.github.io/tags/zendesk/</link>
     <description>Recent content in Zendesk on Jennifer Appleby | Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Aug 2024 16:50:29 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/zendesk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jenapp.github.io/tags/zendesk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Online Help (Zendesk)</title>
-      <link>http://localhost:1313/projects/creations/zendesk/</link>
+      <link>https://jenapp.github.io/projects/creations/zendesk/</link>
       <pubDate>Tue, 13 Aug 2024 16:50:29 +1000</pubDate>
-      <guid>http://localhost:1313/projects/creations/zendesk/</guid>
+      <guid>https://jenapp.github.io/projects/creations/zendesk/</guid>
       <description>Context In this role I provided documentation support to eight product managers and their teams, located in Melbourne, Australia and San Francisco, USA.&#xA;My focus was user management settings help topics and Zendesk integrations content.&#xA;Action Topics were drafted in Google Docs for review, built using Oxygen Author and published in Zendesk.&#xA;Links User management topics&#xA;Managing organizations Managing end users Managing custom roles Understanding standard agent roles in Zendesk Support Zendesk integrations articles</description>
     </item>
   </channel>

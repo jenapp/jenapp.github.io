@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Community contributions on Jennifer Appleby | Portfolio</title>
-    <link>http://localhost:1313/projects/contributions/</link>
+    <link>https://jenapp.github.io/projects/contributions/</link>
     <description>Recent content in Community contributions on Jennifer Appleby | Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Aug 2024 13:08:05 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/contributions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jenapp.github.io/projects/contributions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Write the Docs Australia</title>
-      <link>http://localhost:1313/projects/contributions/writethedocs/</link>
+      <link>https://jenapp.github.io/projects/contributions/writethedocs/</link>
       <pubDate>Tue, 13 Aug 2024 13:08:05 +1000</pubDate>
-      <guid>http://localhost:1313/projects/contributions/writethedocs/</guid>
+      <guid>https://jenapp.github.io/projects/contributions/writethedocs/</guid>
       <description>Context Write the Docs is a global community of people who care about documentation. They welcome everyone who cares about communication, documentation, and their users. This can be programmers, tech writers, developer advocates, customer support, marketers, and anyone else who wants people to have great experiences with software.&#xA;Write the Docs connects the docs community through:&#xA;a Slack network local in-person and online meetups in-person and online conferences around the world Contribution Write the Docs Australia holds an annual conference that facilitates networking, education and community building among content professionals.</description>
     </item>
   </channel>

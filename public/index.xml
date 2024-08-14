@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Jennifer Appleby | Portfolio</title>
-    <link>http://localhost:1313/</link>
+    <link>https://jenapp.github.io/</link>
     <description>Recent content in Home on Jennifer Appleby | Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Aug 2024 00:04:04 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jenapp.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>In-product Help (Iress)</title>
-      <link>http://localhost:1313/projects/creations/iress-commpay/</link>
+      <link>https://jenapp.github.io/projects/creations/iress-commpay/</link>
       <pubDate>Wed, 14 Aug 2024 00:04:04 +1000</pubDate>
-      <guid>http://localhost:1313/projects/creations/iress-commpay/</guid>
+      <guid>https://jenapp.github.io/projects/creations/iress-commpay/</guid>
       <description>Context I maintained multiple help systems during my time at Iress. On of these was in-product help for their CommPay product, an application for automating financial revenue management.&#xA;Action In addition to ongoing help updates for feature additions or other product changes, I used analytics (Google Analytics and Heap) to understand how help topics were being accessed and identify where content itself or structure could be improved.&#xA;Topics related to the Suspense function were identified as some of the most commonly accessed content.</description>
     </item>
     <item>
       <title>Online Help (WingArc)</title>
-      <link>http://localhost:1313/projects/creations/wingarc-mb/</link>
+      <link>https://jenapp.github.io/projects/creations/wingarc-mb/</link>
       <pubDate>Tue, 13 Aug 2024 14:09:03 +1000</pubDate>
-      <guid>http://localhost:1313/projects/creations/wingarc-mb/</guid>
+      <guid>https://jenapp.github.io/projects/creations/wingarc-mb/</guid>
       <description>Context My first project for WingArc Australia was to create an English language user guide of a business intelligence dashboard platform. This product was developed by the parent company, WingArc 1st, located in Japan.&#xA;The existing Japanese machine-translated documentation was not of an acceptable quality to provide to local Australian users.&#xA;Action Authored over 2000 pages in Atlassian Confluence and published using Scroll Viewport to apply custom CSS and manage versioning.</description>
     </item>
     <item>
       <title>Documentation portal &amp; user docs</title>
-      <link>http://localhost:1313/projects/creations/inomial-docs/</link>
+      <link>https://jenapp.github.io/projects/creations/inomial-docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/creations/inomial-docs/</guid>
+      <guid>https://jenapp.github.io/projects/creations/inomial-docs/</guid>
       <description>Context As a Technical Writer with Inomial my role was to collaborate with the engineering and customer success teams to document the Smile product for our clients. As the Inomial user doc set grew a central document portal was required to replace a limited WordPress site.&#xA;The docs.inomial.com site provided access to all:&#xA;product user and reference guides public schema import/export formats product brochures Action Oxygen Author was used to author all Smile guides, quick reference guides and format guides.</description>
     </item>
     <item>
       <title>GraphQL API docs</title>
-      <link>http://localhost:1313/projects/creations/inomial-readthedocs/</link>
+      <link>https://jenapp.github.io/projects/creations/inomial-readthedocs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/creations/inomial-readthedocs/</guid>
+      <guid>https://jenapp.github.io/projects/creations/inomial-readthedocs/</guid>
       <description>Context As Inomial was developing their GraphQL API library, I created this project as a proof of concept for how we could document and present the API documentation.&#xA;Action Using Read the Docs as the hosting platform, content was written in reStructuredText and generated with Sphinx.&#xA;Links </description>
     </item>
     <item>
       <title>Online Help (Zendesk)</title>
-      <link>http://localhost:1313/projects/creations/zendesk/</link>
+      <link>https://jenapp.github.io/projects/creations/zendesk/</link>
       <pubDate>Tue, 13 Aug 2024 16:50:29 +1000</pubDate>
-      <guid>http://localhost:1313/projects/creations/zendesk/</guid>
+      <guid>https://jenapp.github.io/projects/creations/zendesk/</guid>
       <description>Context In this role I provided documentation support to eight product managers and their teams, located in Melbourne, Australia and San Francisco, USA.&#xA;My focus was user management settings help topics and Zendesk integrations content.&#xA;Action Topics were drafted in Google Docs for review, built using Oxygen Author and published in Zendesk.&#xA;Links User management topics&#xA;Managing organizations Managing end users Managing custom roles Understanding standard agent roles in Zendesk Support Zendesk integrations articles</description>
     </item>
     <item>
       <title>Write the Docs Australia</title>
-      <link>http://localhost:1313/projects/contributions/writethedocs/</link>
+      <link>https://jenapp.github.io/projects/contributions/writethedocs/</link>
       <pubDate>Tue, 13 Aug 2024 13:08:05 +1000</pubDate>
-      <guid>http://localhost:1313/projects/contributions/writethedocs/</guid>
+      <guid>https://jenapp.github.io/projects/contributions/writethedocs/</guid>
       <description>Context Write the Docs is a global community of people who care about documentation. They welcome everyone who cares about communication, documentation, and their users. This can be programmers, tech writers, developer advocates, customer support, marketers, and anyone else who wants people to have great experiences with software.&#xA;Write the Docs connects the docs community through:&#xA;a Slack network local in-person and online meetups in-person and online conferences around the world Contribution Write the Docs Australia holds an annual conference that facilitates networking, education and community building among content professionals.</description>
     </item>
   </channel>

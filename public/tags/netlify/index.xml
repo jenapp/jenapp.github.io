@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Netlify on Jennifer Appleby | Portfolio</title>
-    <link>http://localhost:1313/tags/netlify/</link>
+    <link>https://jenapp.github.io/tags/netlify/</link>
     <description>Recent content in Netlify on Jennifer Appleby | Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/netlify/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jenapp.github.io/tags/netlify/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Documentation portal &amp; user docs</title>
-      <link>http://localhost:1313/projects/creations/inomial-docs/</link>
+      <link>https://jenapp.github.io/projects/creations/inomial-docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/creations/inomial-docs/</guid>
+      <guid>https://jenapp.github.io/projects/creations/inomial-docs/</guid>
       <description>Context As a Technical Writer with Inomial my role was to collaborate with the engineering and customer success teams to document the Smile product for our clients. As the Inomial user doc set grew a central document portal was required to replace a limited WordPress site.&#xA;The docs.inomial.com site provided access to all:&#xA;product user and reference guides public schema import/export formats product brochures Action Oxygen Author was used to author all Smile guides, quick reference guides and format guides.</description>
     </item>
   </channel>

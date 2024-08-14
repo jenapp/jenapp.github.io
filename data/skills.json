@@ -1,7 +1,7 @@
 [
   {
     "grouping":"Core skills",
-    "skills":[ "Technical communication", "Content strategy", "Knowledge management", "Product documentation", "UX Writing", "Structured authoring", "Single sourcing", "Agile & waterfall methodologies", "Research"]
+    "skills":[ "Technical communication", "Content strategy", "Knowledge management", "Product documentation", "UX writing", "Structured authoring", "Single sourcing", "Agile & waterfall methodologies", "Research"]
 },
 {
     "grouping":"Content",
@@ -9,10 +9,10 @@
 },
 {
     "grouping":"Tools",
-    "skills":[ "Madcap Flare", "oXygen XML Author", "Atlassian Confluence", "Atlassian JIRA", "Git", "Microsoft Visual Studio Code", "Slack", "Google Workspace", "Microsoft Office", "Greenshot", "Miro"]
+    "skills":[ "Madcap Flare", "oXygen XML Author", "Atlassian Confluence", "Atlassian JIRA", "Git", "Microsoft Visual Studio Code", "Slack", "Google Workspace", "Microsoft Office", "Greenshot", "Miro", "Google Analytics", "Heap"]
 },
 {
     "grouping":"Languages & standards",
-    "skills":[ "HTML", "CSS", "Darwin Information Typing Architecture (DITA)"]
+    "skills":[ "HTML", "CSS", "Darwin Information Typing Architecture (DITA)", "Markdown"]
 }
 ]

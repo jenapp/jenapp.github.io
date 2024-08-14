@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>REST on Jennifer Appleby | Portfolio</title>
-    <link>http://localhost:1313/tags/rest/</link>
+    <link>https://jenapp.github.io/tags/rest/</link>
     <description>Recent content in REST on Jennifer Appleby | Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/rest/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jenapp.github.io/tags/rest/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GraphQL API docs</title>
-      <link>http://localhost:1313/projects/creations/inomial-readthedocs/</link>
+      <link>https://jenapp.github.io/projects/creations/inomial-readthedocs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/creations/inomial-readthedocs/</guid>
+      <guid>https://jenapp.github.io/projects/creations/inomial-readthedocs/</guid>
       <description>Context As Inomial was developing their GraphQL API library, I created this project as a proof of concept for how we could document and present the API documentation.&#xA;Action Using Read the Docs as the hosting platform, content was written in reStructuredText and generated with Sphinx.&#xA;Links </description>
     </item>
   </channel>

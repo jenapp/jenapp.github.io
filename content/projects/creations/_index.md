@@ -1,7 +1,7 @@
 ---
 title: "Documentation projects"
 date: 2024-08-14T18:19:28+10:00
-featured: true
+featured: false
 description: ""
 
 image: ""

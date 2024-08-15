@@ -19,7 +19,7 @@
       <link>https://jenapp.github.io/projects/creations/inomial-readthedocs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jenapp.github.io/projects/creations/inomial-readthedocs/</guid>
-      <description>Context As Inomial was developing their GraphQL API library, I created this project as a proof of concept for how we could document and present the API documentation.&#xA;Action Using Read the Docs as the hosting platform, content was written in reStructuredText and generated with Sphinx.&#xA;Links </description>
+      <description>Context As Inomial was developing their GraphQL API library, I created this project as a proof of concept for how we could document and present the API documentation.&#xA;Action Using Read the Docs as the hosting platform, content was written in reStructuredText and generated with Sphinx.&#xA;Links Smile&amp;rsquo;s GraphQL API docs </description>
     </item>
   </channel>
 </rss>

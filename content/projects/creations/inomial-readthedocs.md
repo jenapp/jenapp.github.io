@@ -12,7 +12,7 @@
           "Inomial"
         ]
    image: "/img/proj-graphql-api-account.png"
-   link: "https://inomial.readthedocs.io"
+   link: ""
    fact: "."
    weight: 400
    sitemap:
@@ -30,3 +30,5 @@ Using **Read the Docs** as the hosting platform, content was written in **reStru
 ![Graph API docs](/img/proj-graphql-api-account.png)
 
 ### Links
+
+- [Smile's GraphQL API docs](https://inomial.readthedocs.io)

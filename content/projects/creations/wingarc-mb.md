@@ -10,7 +10,7 @@ tags: [
   "WingArc"
   ]
 image: "/img/proj-wingarc-motionboard.png"
-link: "https://web.archive.org/web/20200420090920/https://docs.wingarc.com.au/motionboard"
+link: ""
 fact: ""
 weight: 200
 sitemap:
@@ -39,3 +39,5 @@ As part of the process, I:
 - A locally maintained doc set, containing relevant examples and screenshots
 
 ### Links
+
+- [MotionBoard Documentation](https://web.archive.org/web/20200420090920/https://docs.wingarc.com.au/motionboard)

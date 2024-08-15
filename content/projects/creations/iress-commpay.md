@@ -47,5 +47,5 @@ Content was drafted in **Google Docs** and published using **MadCap Flare**.
 - [Suspense content review draft - with edit mark up](/docs/CommPay_Suspense_DraftMarked.pdf)
 - [Suspense content design brief](/docs/CommPay_Suspense_ContentDesignBrief.pdf)
 
-Another example of an in-product help section update for another Iress product, Iress Pro:
+Another example of an in-product help section update for Iress Pro, a trading platform product:
 - [Iress Pro: Connect to Iress](/docs/Iress_ConnectToIress_Draft.pdf)

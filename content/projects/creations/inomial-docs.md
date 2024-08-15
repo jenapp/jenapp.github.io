@@ -12,7 +12,7 @@
           "Inomial"
         ]
    image: "/img/proj-docs.inomial.com.png"
-   link: "https://docs.inomial.com/"
+   link: ""
    fact: ""
    weight: 300
    sitemap:
@@ -49,3 +49,5 @@ The most significant guides that I authored in this doc set are the:
 - Downloadable CSV format templates
 
 ### Links
+
+- [docs.inomial.com](https://docs.inomial.com/)

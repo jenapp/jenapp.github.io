@@ -51,3 +51,5 @@ To provide some understand a little of the review process I follow:
 -->
 Another example of an in-product help section update for Iress Pro, a trading platform product:
 - [Iress Pro: Connect to Iress draft](/docs/Iress_ConnectToIress_Draft.pdf)
+
+![Iress Pro Help](/img/proj-iress-pro.png)

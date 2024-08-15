@@ -43,9 +43,11 @@ Content was drafted in **Google Docs** and published using **MadCap Flare**.
 
 ### Links
 
-- [Suspense content review draft](/docs/CommPay_Suspense_Draft.pdf)
-- [Suspense content review draft - with edit mark up](/docs/CommPay_Suspense_DraftMarked.pdf)
-- [Suspense content design brief](/docs/CommPay_Suspense_ContentDesignBrief.pdf)
-
+- [CommPay: Suspense draft](/docs/CommPay_Suspense_Draft.pdf)
+<!--
+To provide some understand a little of the review process I follow:
+- [Commpay: Suspense content review draft - with edit mark up](/docs/CommPay_Suspense_DraftMarked.pdf)
+- [UX Content Design Brief - CommPay Suspense](/docs/CommPay_Suspense_ContentDesignBrief.pdf)
+-->
 Another example of an in-product help section update for Iress Pro, a trading platform product:
-- [Iress Pro: Connect to Iress](/docs/Iress_ConnectToIress_Draft.pdf)
+- [Iress Pro: Connect to Iress draft](/docs/Iress_ConnectToIress_Draft.pdf)

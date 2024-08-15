@@ -39,5 +39,5 @@ I've now been part of the planning team for multiple Australian conferences. As 
 ### Links
 
 - [Write the Docs Australia 2024 conference](https://www.writethedocs.org/conf/australia/2024/)
-- [Write the Docs]("https://www.writethedocs.org/")
+- [Write the Docs](https://www.writethedocs.org/)
 - [Write the Docs Australia meetups](https://www.meetup.com/Write-the-Docs-Australia/)
